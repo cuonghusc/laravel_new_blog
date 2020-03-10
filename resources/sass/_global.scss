@@ -1,0 +1,17 @@
+// Plugins
+
+// FontAwesome 5
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import '~datatables.net-bs4/css/dataTables.bootstrap4.css';
+@import '~bootstrap-select/sass/bootstrap-select.scss';
+@import '~dropzone/dist/min/dropzone.min.css';
+@import '~dropzone/dist/min/dropzone.min.css';
+@import '~@fancyapps/fancybox/dist/jquery.fancybox.css';
+// Header Styles
+.read-only, .logged-in-as {
+  margin: 0 !important;
+  border-radius: 0 !important;
+}
